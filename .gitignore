@@ -1,0 +1,6 @@
+# Ignore packages installed by npm
+node_modules
+
+# Other stuff to ignore
+*~
+
