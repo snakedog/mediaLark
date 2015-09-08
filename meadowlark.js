@@ -19,7 +19,7 @@ app.get('/', function(req, res){
 });
 
 app.get('/about', function(req, res){
-    res.render('about', {fortune.getFortune()});
+    res.render('about', {fortune: fortune.getFortune()});
 });
 
 // custom 404 page
