@@ -1,0 +1,17 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "A Travel site for the Oregon ara",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express-handlebars": "^2.0.1",
+    "express": "^4.13.3",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruairi O'Reilly",
+  "license": "ISC"
+}
